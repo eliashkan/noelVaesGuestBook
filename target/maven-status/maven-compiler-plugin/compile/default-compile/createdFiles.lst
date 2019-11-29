@@ -1,0 +1,4 @@
+be/intecbrussel/servlets/model/MessageBean.class
+be/intecbrussel/servlets/servlet/GuestBookServlet.class
+be/intecbrussel/servlets/dao/MessageDAO.class
+be/intecbrussel/servlets/dao/ConnectionSingleton.class
